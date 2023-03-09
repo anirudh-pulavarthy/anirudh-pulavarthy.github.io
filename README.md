@@ -1,3 +1,4 @@
 # anirudh-pulavarthy.github.io
 
-This page is under construction. Please visit again later!
+This project showcases portfolio of Anirudh.
+Project uses a template downloaded from https://html5up.net/
